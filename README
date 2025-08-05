@@ -1,2 +1,10 @@
-Indian English model for mobile Vosk applications
+This basically uses eye movements for moving the mouse pointer and use voice commands for the action to perform
+Example:move ur eyeball upwards till the 'x' to close the tab and use the voice command 'click' to close it
+This is very much useful for handicap peoplewho cant use their hands physically
 
+Dataset shd be created on our own
+left,right,up,down images each of the folder is saved using webcam
+
+It will also open commands like 'open calculator'-----> which open the calculator using via voice commands
+
+Use vosk for voice commands
